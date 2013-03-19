@@ -1,0 +1,20 @@
+<?xml version='1.0' standalone='yes'?>
+
+<nav>
+	<immediate>
+		<children>
+			<employees>
+				<label>List of Employees</label>
+				<link>supervisor/listofemployee</link>
+			</employees>
+		</children>
+	</immediate>
+	<hr>
+		<children>
+			<employees>
+				<label>List of Employees</label>
+				<link>hr/employee</link>
+			</employees>
+		</children>
+	</hr>	
+</nav>

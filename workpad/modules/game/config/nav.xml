@@ -1,0 +1,27 @@
+<?xml version='1.0' standalone='yes'?>
+
+<nav>
+	<employee>		
+		<children>
+			<my_rewards>
+				<label>My Rewards</label>
+				<link>employee/rewards</link>
+				<order>4</order>
+			</my_rewards>
+			<rewards_shop>
+				<label>Rewards Shop</label>
+				<link>employee/rewards_shop</link>
+				<order>5</order>
+			</rewards_shop>			
+		</children>		
+	</employee>
+	<hr>
+		<children>
+			<rewards_shop>
+				<label>Rewards Shop</label>
+				<link>hr/rewards_shop</link>
+				<order>5</order>
+			</rewards_shop>	
+		</children>
+	</hr>
+</nav>

@@ -1,0 +1,13 @@
+<?xml version='1.0' standalone='yes'?>
+
+<nav>
+	<employee>		
+		<children>
+			<dashboard>
+				<label>Dashboard</label>
+				<link>employee/dashboard</link>
+				<order>0</order>
+			</dashboard>
+		</children>
+	</employee>
+</nav>

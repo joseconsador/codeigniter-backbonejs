@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="yes"?>
+<modules>
+	<module uuid="dashboard">		
+		<name>Dashboard</name>
+		<enabled>1</enabled>
+		<dir>dashboard</dir>
+	</module>	
+	
+	<module uuid="users">
+		<name>Users</name>
+		<enabled>1</enabled>
+		<dir>users</dir>
+	</module>
+	
+	<module uuid="201">
+		<name>employee</name>
+		<enabled>1</enabled>
+		<dir>201</dir>
+	</module>
+
+	<module uuid="admin_options">		
+		<name>admin_options</name>
+		<enabled>1</enabled>
+		<dir>admin_options</dir>
+	</module>	
+
+	<module uuid="auth">		
+		<name>auth</name>
+		<enabled>1</enabled>
+		<dir>auth</dir>
+	</module>
+
+	<module uuid="calendar">
+		<name>calendar</name>
+		<enabled>1</enabled>
+		<dir>calendar</dir>
+	</module>
+
+	<module uuid="company">		
+		<name>company</name>
+		<enabled>1</enabled>
+		<dir>company</dir>
+	</module>
+	
+	<module uuid="position">		
+		<name>position</name>
+		<enabled>1</enabled>
+		<dir>position</dir>
+	</module>
+
+	<module uuid="department">		
+		<name>department</name>
+		<enabled>1</enabled>
+		<dir>department</dir>
+	</module>
+
+	<module uuid="division">
+		<name>division</name>
+		<enabled>1</enabled>
+		<dir>division</dir>
+	</module>
+
+	<module uuid="fields">		
+		<name>fields</name>
+		<enabled>1</enabled>
+		<dir>fields</dir>
+	</module>
+
+	<module uuid="message">		
+		<name>message</name>
+		<enabled>1</enabled>
+		<dir>message</dir>
+	</module>
+
+	<module uuid="modules">		
+		<name>modules</name>
+		<enabled>1</enabled>
+		<dir>modules</dir>
+	</module>
+
+	<module uuid="notes">
+		<name>notes</name>
+		<enabled>1</enabled>
+		<dir>notes</dir>
+	</module>
+
+	<module uuid="notification">
+		<name>notification</name>
+		<enabled>1</enabled>
+		<dir>notification</dir>
+	</module>	
+
+	<module uuid="timekeeping">
+		<name>timekeeping</name>
+		<enabled>1</enabled>
+		<dir>timekeeping</dir>
+	</module>
+	
+	<module uuid="person">
+		<name>Person</name>
+		<enabled>1</enabled>
+		<dir>person</dir>
+	</module>
+	
+	<module uuid="feeds">
+		<name>feeds</name>
+		<enabled>1</enabled>
+		<dir>feeds</dir>
+	</module>
+	
+	<module uuid="notification">
+		<name>notification</name>
+		<enabled>1</enabled>
+		<dir>notification</dir>
+	</module>	
+	
+	<module uuid="todo">
+		<name>todo</name>
+		<enabled>1</enabled>
+		<dir>todo</dir>
+	</module>
+	
+	<module uuid="thankyou">
+		<name>thankyou</name>
+		<enabled>1</enabled>
+		<dir>thankyou</dir>
+	</module>
+
+	<module uuid="goals">
+		<name>goals</name>
+		<enabled>1</enabled>
+		<dir>goals</dir>
+	</module>
+		
+	<module uuid="game">
+		<name>gamification</name>
+		<enabled>1</enabled>
+		<dir>game</dir>
+	</module>
+</modules>

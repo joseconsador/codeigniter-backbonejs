@@ -1,0 +1,28 @@
+<?xml version='1.0' standalone='yes'?>
+
+<nav>
+	<employee>
+		<label>Employee</label>
+		<link></link>
+		<children></children>
+		<access>PARENT_EMPLOYEE</access>
+	</employee>
+	<immediate>
+		<label>Immediate</label>
+		<link></link>
+		<children></children>
+		<access>PARENT_IMMEDIATE</access>
+	</immediate>
+	<hr>
+		<label>HR Admin</label>
+		<link></link>
+		<children></children>
+		<access>PARENT_HR</access>
+	</hr>
+	<master>
+		<label>Master</label>
+		<link></link>
+		<children></children>
+		<access>PARENT_HR</access>
+	</master>	
+</nav>

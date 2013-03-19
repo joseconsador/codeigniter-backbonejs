@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+
+<nav>
+	<employee>		
+		<children>
+			<goals>
+				<label>My Goals</label>
+				<link>employee/goals</link>
+				<order>3</order>
+			</goals>
+		</children>		
+	</employee>
+	<immediate>
+		<children>
+			<goals>
+				<label>Goals and Objectives</label>
+				<link>supervisor/goals</link>
+				<order>1</order>
+			</goals>
+		</children>
+	</immediate>
+</nav>

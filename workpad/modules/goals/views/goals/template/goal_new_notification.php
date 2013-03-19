@@ -1,0 +1,1 @@
+{created} has given you a new goal: "{goal}"

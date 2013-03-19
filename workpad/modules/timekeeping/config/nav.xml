@@ -1,0 +1,37 @@
+<?xml version='1.0' standalone='yes'?>
+
+<nav>
+	<employee>		
+		<children>
+			<timegraph>
+				<label>Time Graph</label>
+				<link>employee/timegraph</link>
+			</timegraph>
+			<timesheet>
+				<label>Time Sheet</label>
+				<link>employee/timesheet</link>
+				<order>8</order>
+			</timesheet>
+		</children>
+	</employee>
+	<immediate>
+		<children>
+			<form_applications>
+				<label>Form Applications</label>
+				<link>supervisor/form_applications</link>
+			</form_applications>
+		</children>
+	</immediate>
+	<hr>
+		<children>
+			<timekeeping>
+				<label>Time Keeping</label>
+				<link>hr/timekeeping</link>
+			</timekeeping>			
+			<leaves_setup>
+				<label>Leaves Setup</label>
+				<link>hr/timekeeping/leavesetup</link>
+			</leaves_setup>
+		</children>
+	</hr>	
+</nav>

@@ -1,0 +1,12 @@
+<?xml version='1.0' standalone='yes'?>
+
+<nav>
+	<master>		
+		<children>
+			<modulemanager>
+				<label>Module Manager</label>
+				<link>admin/modules</link>
+			</modulemanager>
+		</children>
+	</master>
+</nav>

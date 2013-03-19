@@ -1,0 +1,13 @@
+<?xml version='1.0' standalone='yes'?>
+
+<nav>
+	<employee>		
+		<children>
+			<calendar>
+				<label>Calendar</label>
+				<link>employee/calendar</link>
+				<order>3</order>
+			</calendar>
+		</children>		
+	</employee>
+</nav>

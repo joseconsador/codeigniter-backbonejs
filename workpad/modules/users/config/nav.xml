@@ -1,0 +1,21 @@
+<?xml version='1.0' standalone='yes'?>
+
+<nav>
+	<employee>		
+		<children>
+			<profile>
+				<label>My Profile</label>
+				<link>profile</link>
+				<order>1</order>
+			</profile>
+		</children>		
+	</employee>
+	<master>		
+		<children>
+			<users>
+				<label>Manage Users</label>
+				<link>admin/users</link>
+			</users>
+		</children>		
+	</master>	
+</nav>

@@ -1,0 +1,1 @@
+{approver} has {verb} your {form_type} application.

@@ -1,0 +1,24 @@
+<?xml version='1.0' standalone='yes'?>
+<module>
+	<resources>
+		<resource name="users">
+			<url>users</url>
+			<fields>
+				<field>
+					<label>First Name</label>
+					<type>string</type>
+					<options>
+						<option>required</option>
+					</options>
+				</field>
+				<field>
+					<label>Last Name</label>
+					<type>string</type>
+					<options>
+						<option>required</option>
+					</options>
+				</field>
+			</fields>
+		</resource>
+	</resources>
+</module>
